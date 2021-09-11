@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I like programming since the first time I had contact with the subject, I have ventured into this universe since I was 14 years old, I try to deliver my best in every situation, I am happy to know that I have the ability to help people through my applications, experience with web development, ReactJs, Flutter, Firebase, NodeJS, MongoDB.
+I am encouraged to create and develop ideas! Currently focused on mobile application development.
+Passionate about innovation, and always focused on meeting new challenges and creating solutions that generate satisfaction, impact and positive changes in people's lives.
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=JhonatanAzevedo&show_icons=true&hide_border=true)
 ![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanAzevedo&layout=compact)
