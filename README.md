@@ -11,5 +11,5 @@ Passionate about innovation, and always focused on meeting new challenges and cr
 
 
 ## Find me around the web 🌎:
-- ✉️ E-mail: [jhonatansilva756@gmail.com](mailto:jhonatansilva756@gmail.com)
+- ✉️ E-mail: [jhonatan.a.developer@gmail.com](mailto:jhonatan.a.developer@gmail.com)
 - 💼 Professional profile: [https://www.linkedin.com/in/jhonatan-de-azevedo-silva-619a74180/](https://www.linkedin.com/in/jhonatan-de-azevedo-silva-619a74180/)
